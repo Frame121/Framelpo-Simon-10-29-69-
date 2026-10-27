@@ -1,0 +1,7 @@
+# local/backup files, not part of the published website
+Html-before-*.html
+Html-redesign.html
+assets/*.webm
+Thumbs.db
+desktop.ini
+.DS_Store
